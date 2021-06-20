@@ -1,0 +1,12 @@
+name: "DataViz_blog"
+title: "Dataviz Makeover"
+description: |
+  Welcome to our new blog .I really hope I can go through R learning 
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
