@@ -286,3 +286,4 @@ For Export performance, Singapore’s export always outweighs its import with Ho
 In terms of exports, Singapore's performance is not ideal. For most regions or countries , there is a downward trend in exports, except Hong Kong ,China and Taiwan these three partners, which shows increasing trend.
 On the import side, it can be seen from the linear trend line that the proportion of partners that Singapore import increases and  that import  decreases is similar.
 
+
